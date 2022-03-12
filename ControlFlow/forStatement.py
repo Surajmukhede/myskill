@@ -1,5 +1,5 @@
 
-sum = 0
 for i in range(0,101):
-    sum = sum + i
-print(sum)
+    print(i)
+    if i == 10:
+        break

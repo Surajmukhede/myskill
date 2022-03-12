@@ -1,8 +1,11 @@
 
 
 
-
+count = 0
 while True:
     name = input()
-    if name == 'Suraj':
+    count = count + 1
+    if count == 5 or name == 'Suraj':
+        print('Access Denied')
         break
+        
