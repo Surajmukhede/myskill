@@ -1,5 +1,0 @@
-
-name = "Suraj"
-
-
-print(name)

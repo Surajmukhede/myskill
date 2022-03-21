@@ -13,4 +13,3 @@ number = [1,1,2,3,4,1,1]
 x = 1
 print('finding occurance of given number is: ',x, '\nnumber of occurance of given element:',countnumberofoccurance(number, x))
 
-s
