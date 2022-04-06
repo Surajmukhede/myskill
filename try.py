@@ -5,4 +5,4 @@ def student(name):
 
 
 
-student('name')
+student('suraj')
